@@ -63,4 +63,4 @@ The project is structured into the following main components:
 
 ## Conclusion
 
-This project is a comprehensive application of data science techniques, showcasing how to handle real-world datasets, perform exploratory data analysis, build machine learning models, and present results using an interactive dashboard. It provides insights into SpaceX launch performance and offers a predictive tool for future launches, making it a valuable resource for anyone interested in data science applications in aerospace.
+This project is a comprehensive application of data science techniques, showcasing how to handle real-world datasets, perform exploratory data analysis, build machine learning models, and present results through an interactive dashboard. It provides insights into SpaceX launch performance and offers a predictive tool for future launches, reflecting my interest in data science applications in aerospace. The project emphasizes how data science can drive impactful decisions and innovations in the aerospace industry.
